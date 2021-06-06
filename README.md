@@ -6,8 +6,7 @@ This readme will also serve as instructions for the tasks in the assignment.
 
 **TASK 1: Touch Biometrics**
 Continuous authentication methods for users who are using a smartphone. A touch dataset (in data
-folder, available at Google Drive https://drive.google.com/drive/folders/1esR5KU-sw7rqEOi5SjO79_
-Okn5vb8b88?usp=sharing) consists of 30 features (in features folder) extracted from raw touch input. Further details about the touch dataset can be found at http://www.mariofrank.net/touchalytics/index.
+folder, available at Google Drive https://drive.google.com/drive/folders/1esR5KU-sw7rqEOi5SjO79Okn5vb8b88?usp=sharing) consists of 30 features (in features folder) extracted from raw touch input. Further details about the touch dataset can be found at http://www.mariofrank.net/touchalytics/index.
 html. Please answer the following questions:
 
 (1) Implement two more features in addition to the 30 found in the database. Do they have positive
@@ -32,8 +31,8 @@ you used to optimize your classifier.
           
 **TASK 2: Merits of Entropy in Attack Detection/Diagnostics**
 
-Consider a server-log dataset (in server-log.txt) hosted at Google Drive https://drive.google.com/
-drive/folders/1esR5KU-sw7rqEOi5SjO79_Okn5vb8b88?usp=sharing. Two attacks happened on a day,
+Consider a server-log dataset (in server-log.txt) hosted at Google Drive https://drive.google.com/drive/folders/1esR5KU-sw7rqEOi5SjO79_Okn5vb8b88?usp=sharing. 
+Two attacks happened on a day,
 both somewhere around 8am and noon. Please answer the following questions:
 
       • Identify the exact date and time. What approach did the attackers use?
