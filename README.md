@@ -5,6 +5,7 @@ This repository contains individual work for COMP8325 Assignment 1 Part 2.
 This readme will also serve as instructions for the tasks in the assignment.
 
 **TASK 1: Touch Biometrics**
+
 Continuous authentication methods for users who are using a smartphone. A touch dataset (in data
 folder, available at Google Drive https://drive.google.com/drive/folders/1esR5KU-sw7rqEOi5SjO79Okn5vb8b88?usp=sharing) consists of 30 features (in features folder) extracted from raw touch input. Further details about the touch dataset can be found at http://www.mariofrank.net/touchalytics/index.
 html. Please answer the following questions:
