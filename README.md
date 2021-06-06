@@ -40,6 +40,7 @@ both somewhere around 8am and noon. Please answer the following questions:
       
       • There has been significant literature23 discussing how entropy can be used to detect these attacks.
         To do it effectively, approximation schemes are usually used. You do not have to implement these
-        approximation techniques, but do present an analysis of whether entropy is useful and which combinations you tried, e.g. src ip, dest ip, src-port, dst-port, etc. Do           any reveal anomalies when the two attacks happen?
+        approximation techniques, but do present an analysis of whether entropy is useful and which combinations you tried, 
+        e.g. src ip, dest ip, src-port, dst-port, etc. Do any reveal anomalies when the two attacks happen?
 
 
